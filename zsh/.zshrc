@@ -43,7 +43,6 @@ _comp_options+=(globdots)		# Include hidden files.
 alias ls="ls --color"
 alias la="ls -lha --color"
 
-alias sf="$HOME/.local/bin/fzfo/fzfo.sh"
 alias cht="$HOME/.local/bin/cht/cht.sh"
 
 # zsh syntax highlighting
